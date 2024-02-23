@@ -13,5 +13,5 @@ I'm a front-end engineer in Japan. I also write a technical blog. I do it all as
 ## Frameworks and Libraries
 [![React, Next.JS, Express, Flask, FastAPI](https://skillicons.dev/icons?i=react,nextjs,tailwind,express,flask,fastapi)](https://skillicons.dev)
 
-## Dev tools etc
+## Dev Tools etc
 [![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,docker,vscode,postgres,git,cloudflare,vercel)](https://skillicons.dev)
