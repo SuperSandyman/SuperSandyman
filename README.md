@@ -4,7 +4,7 @@ I'm a front-end engineer in Japan. I also write a technical blog. I do it all as
 
 <p align="left">
   <img alt="Sandyman's GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SuperSandyman&count_private=true&show_icons=true&theme=dracula" />
-  <img alt="Most Used Language" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSandyman&layout=compact&theme=dracula" />
+  <img alt="Most Used Language" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperSandyman&layout=compact&theme=dracula&hide=html,css,scss" />
 </p>
 
 ## Programming Languages
