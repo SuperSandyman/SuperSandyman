@@ -8,7 +8,7 @@ I'm a front-end engineer in Japan. I also write a technical blog. I do it all as
 </p>
 
 ## Programming Languages
-[![HTML, CSS, JS, TS, Python, Rust](https://skillicons.dev/icons?i=html,css,js,ts,python)](https://skillicons.dev)
+[![HTML, CSS, JS, TS, Python, Rust](https://skillicons.dev/icons?i=html,css,js,ts,python,rust)](https://skillicons.dev)
 
 ## Frameworks and Libraries
 [![React, Next.JS, Express, Flask, FastAPI](https://skillicons.dev/icons?i=react,nextjs,tailwind,express,flask,fastapi)](https://skillicons.dev)
